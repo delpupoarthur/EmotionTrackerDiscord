@@ -1,0 +1,18 @@
+# Arquivos .env
+.env
+
+# Outros arquivos sensíveis (por exemplo, configurações de banco de dados)
+config.json
+secrets.json
+
+# Arquivos de cache ou build
+__pycache__/
+*.pyc
+*.pyo/
+__pycache__/
+*.pyc
+*.pyo
+
+# Diretórios de ambiente virtual (se você estiver usando virtualenv)
+venv/
+env/
