@@ -1,2 +1,2 @@
 # EmotionTrackerDiscord
-Emotion tracker for Discord
+Emotion tracker for Discord.
